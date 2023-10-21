@@ -1,0 +1,73 @@
+body{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top_bar{
+    background-color: #333;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    border-bottom: 5px solid #fd8a24;
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+}
+
+.headline{
+    font-size: 58px;
+    line-height: 64px;
+}
+
+.subline{
+    font-size: 24px;
+    font-weight: normal;
+    color: dimgrey;
+}
+
+.author{
+    font-weight: bold;
+    color: dimgray;
+}
+
+.date{
+    font-weight: lighter;
+    color:lightgrey
+}
+
+.social-icon{
+    margin-right: 15px;
+}
+
+.container_body{    
+    max-width: 740px;
+    margin: auto;
+    padding: 5px;
+    
+}
+
+.text{
+    font-size: 22px;
+    color: dimgray;
+}
+
+.legenda{
+    color: dimgray;;
+}
+
+.orange-tittle{
+    color:#fd8a24;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bottom-bar{
+    background-color: #333;
+    padding: 25px;
+}
